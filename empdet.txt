@@ -1,0 +1,8 @@
+Prabal CEO Male prabal123@gmail.com 2,00,00,000
+Gurpreet Director Male gurpreet123@gmail.com 1,00,00,000
+Deepesh Manager Male deepesh123@gmail.com 50,00,000
+Shubh Designer Male shubhb123@gmail.com 25,00,000
+Chetan Editor Male chetan123@gmail.com 25,00,000
+Atishey Publisher Male atishey123@gmail.com 25,00,000
+Kunal Officeboy Male kunal123@gmail.com 25,00,000
+Yash Guard Male yash123@gmail.com 20,00,000
